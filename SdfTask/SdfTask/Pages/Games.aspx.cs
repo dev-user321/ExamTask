@@ -11,6 +11,7 @@ namespace SdfTask.Pages
 {
     public partial class Games : System.Web.UI.Page
     {
+
         protected void Page_Load(object sender, EventArgs e)
         {
             Helper.Helper.IncreaseSessionTime();

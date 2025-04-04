@@ -3,60 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\pages\\tournamentschedule.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\tournamentschedule.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\pages\\games.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\games.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\pages\\games.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\games.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\pages\\games.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\games.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\pages\\tournamentschedule.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\tournamentschedule.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\pages\\tournamentschedule.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\pages\\tournamentschedule.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\tournamentschedule.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\repository\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\repository\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\sdftask\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\webformexam\\sdftask\\sdftask\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7897D3F1-4739-4692-8AA5-33B762498EB7}|SdfTask\\SdfTask.csproj|solutionrelative:sdftask\\pages\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +102,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SdfTask\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "SdfTask\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:27:58.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Repository\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "SdfTask\\Repository\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Repository\\TeamRepository.cs",
+              "RelativeToolTip": "SdfTask\\Repository\\TeamRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:24:23.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Repository\\GameRepository.cs",
+              "RelativeDocumentMoniker": "SdfTask\\Repository\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Repository\\GameRepository.cs",
+              "RelativeToolTip": "SdfTask\\Repository\\GameRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:15:17.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "SdfTask\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Repository\\IRepository.cs",
+              "RelativeToolTip": "SdfTask\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:14:13.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Helper\\Helper.cs",
               "RelativeDocumentMoniker": "SdfTask\\Helper\\Helper.cs",
@@ -94,12 +162,11 @@
               "RelativeToolTip": "SdfTask\\Helper\\Helper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwBgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T18:35:55.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T18:35:55.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Model\\Game.cs",
               "RelativeDocumentMoniker": "SdfTask\\Model\\Game.cs",
@@ -112,20 +179,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Games.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\Games.aspx.cs",
               "RelativeDocumentMoniker": "SdfTask\\Pages\\Games.aspx.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\Games.aspx.cs",
               "RelativeToolTip": "SdfTask\\Pages\\Games.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T17:56:54.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Games.aspx",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\Games.aspx",
               "RelativeDocumentMoniker": "SdfTask\\Pages\\Games.aspx",
@@ -138,20 +205,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "TournamentSchedule.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\TournamentSchedule.aspx.cs",
               "RelativeDocumentMoniker": "SdfTask\\Pages\\TournamentSchedule.aspx.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\TournamentSchedule.aspx.cs",
               "RelativeToolTip": "SdfTask\\Pages\\TournamentSchedule.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T17:49:13.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Model\\Team.cs",
               "RelativeDocumentMoniker": "SdfTask\\Model\\Team.cs",
@@ -159,12 +226,11 @@
               "RelativeToolTip": "SdfTask\\Model\\Team.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T17:44:33.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T17:44:33.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TournamentSchedule.aspx",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\TournamentSchedule.aspx",
               "RelativeDocumentMoniker": "SdfTask\\Pages\\TournamentSchedule.aspx",
@@ -177,13 +243,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\Login.aspx.cs",
               "RelativeDocumentMoniker": "SdfTask\\Pages\\Login.aspx.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\Login.aspx.cs",
               "RelativeToolTip": "SdfTask\\Pages\\Login.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T17:24:42.847Z",
               "EditorCaption": ""
@@ -203,20 +269,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Register.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\Register.aspx.cs",
               "RelativeDocumentMoniker": "SdfTask\\Pages\\Register.aspx.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\Register.aspx.cs",
               "RelativeToolTip": "SdfTask\\Pages\\Register.aspx.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwDgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T17:17:53.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Model\\User.cs",
               "RelativeDocumentMoniker": "SdfTask\\Model\\User.cs",
@@ -229,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Register.aspx",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Pages\\Register.aspx",
               "RelativeDocumentMoniker": "SdfTask\\Pages\\Register.aspx",
@@ -242,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SdfTask\\Data\\AppDbContext.cs",
@@ -250,18 +316,17 @@
               "RelativeToolTip": "SdfTask\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T17:12:29.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T17:12:29.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Web.config",
               "RelativeDocumentMoniker": "SdfTask\\Web.config",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\WebFormExam\\SdfTask\\SdfTask\\Web.config",
               "RelativeToolTip": "SdfTask\\Web.config",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-04-04T17:09:08.492Z",
               "EditorCaption": ""
